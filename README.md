@@ -1,6 +1,6 @@
 # Strain-Gauge-Rosette-Calculations
 
-This was a short program written to aid in performing a mechanics of materials lab.
+This was a short program written to aid in performing a Mechanics of Materials lab.
 
 The strain in the x and y directions and shear strain, as well as strain at 60* were 
 calculated at various pressures given a set of experimental data collected in a thin 
