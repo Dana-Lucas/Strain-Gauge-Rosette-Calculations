@@ -4,7 +4,8 @@ This was a short program written to aid in performing a mechanics of materials l
 
 The strain in the x and y directions and shear strain, as well as strain at 60* were 
 calculated at various pressures given a set of experimental data collected in a thin 
-wall pressure vessel with both open end and closed end conditions.
+wall pressure vessel with both open end and closed end conditions. Dictionaries were 
+created listing the necessary information at each pressure.
 
 The following set of equations were used in the calculations:
 
